@@ -1,0 +1,9 @@
+https://hub.docker.com/_/kibana/
+https://github.com/elastic/kibana-docker/issues/27
+https://hub.docker.com/_/kibana/
+http://10.96.204.66:80
+https://hub.docker.com/r/blacktop/kibana/
+https://elk-docker.readthedocs.io/
+https://www.elastic.co/guide/en/x-pack/5.6/license-management.html
+https://elk-docker.readthedocs.io/
+There are pure OSS docker images of 6.0, but the 5.x images that have been published at elastic.co all include the X-Pack plugin.
